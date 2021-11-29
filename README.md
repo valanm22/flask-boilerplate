@@ -47,6 +47,6 @@ $ set FLASK_ENV=development
 $ flask run
 ```
 
-### License
+## License
 
 This program is a free software under MIT license. Please see the [LICENSE](https://github.com/valanm22/flask-boilerplate/blob/main/LICENSE) file in my repository for the full text
