@@ -1,6 +1,6 @@
 # flask-boilerplate
 
-This boilerplate is for beginners to quickly set up a simple web application with flask.
+This boilerplate is for those to quickly set up a simple web application with flask.
 
 ## Getting Started 
 
