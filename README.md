@@ -25,7 +25,7 @@ $ cd flask-boilerplate
     $ env\Scripts\activate
     ```
  
- * Creating and activating your own environment
+ * Creating and activating a custom environment
  
     ```diff
     # creating venv
