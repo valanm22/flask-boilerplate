@@ -19,22 +19,14 @@ $ cd flask-boilerplate
 
 ### Activating virtual environment
 
-* Activating the existing environment
-
-    ```
-    $ env\Scripts\activate
-    ```
- 
- * Creating and activating a custom environment
- 
-    ```diff
-    # creating venv
-    $ python3 -m venv your_env_name
-    # activating the venv
-    $ your_env_name\Scripts\activate
-    # installing the required packages
-    $ pip install -r requirements.txt
-    ```
+```diff
+# creating venv
+$ python3 -m venv your_env_name
+# activating the venv
+$ your_env_name\Scripts\activate
+# installing the required packages
+$ pip install -r requirements.txt
+```
     
 ### Running app
 
